@@ -24,6 +24,20 @@ The main keywords used are:
   
 * Makes programs more robust, secure, and user-friendly.
 
+## Advantages of Exception Handling in C++
+
+1. Prevents Program Crashes
+
+* Errors like division by zero, invalid input, or memory allocation failures can be caught and handled gracefully.
+
+* This avoids abrupt program termination and improves stability.
+
+2. Separates Error-Handling Code from Regular Code
+
+* Keeps the main logic clean and easier to understand.
+
+* Error-handling is isolated in catch blocks, improving code readability and maintenance.
+
 ## Syntax
 
 ```
